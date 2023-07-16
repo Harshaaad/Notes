@@ -1,0 +1,5 @@
+<Node Template(.ejs) Flow>
+===================================================================================
+
+res.render ===> looks for the view engine which we set in app.js ===> res.render then looks for the given attribute in the ‘views’ folder by default.
+The second attribute we pass in to the render function can be data which could be dynamically displayed on the webpage using template syntax. 
