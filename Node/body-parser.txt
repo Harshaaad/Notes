@@ -1,0 +1,6 @@
+  Using Body-Parser for POST methods
+<====================================>
+
+Install the body-parser dependency.
+Use the body-parser.
+Handle the POST request using req.body.(the name of the form we are trying to access).
